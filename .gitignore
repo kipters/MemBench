@@ -1,0 +1,4 @@
+binaries/
+dotnet/bin/
+dotnet/obj/
+hs_err*.log
